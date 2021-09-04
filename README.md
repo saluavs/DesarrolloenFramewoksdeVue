@@ -1,4 +1,4 @@
-# prueba2
+# NuxtJS
 
 ## Build Setup
 
